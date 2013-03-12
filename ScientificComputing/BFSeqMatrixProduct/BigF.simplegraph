@@ -1,0 +1,116 @@
+graph:
+undirected
+label G5
+font begin 1 22
+begin vertices:
+vertex 0:
+label 1
+location 835.0832963850476,274.2230068395046
+color -16205569
+labellocation 0.0 4.0
+vertex 1:
+label 2
+location 655.1526619250315,215.50119656054608
+color -16205569
+labellocation 0.0 4.0
+vertex 2:
+label 3
+location 345.2068453991112,454.6321464685448
+color -16205569
+labellocation 0.0 4.0
+vertex 3:
+label 4
+location 714.1038569422142,300.21048146421856
+color -16205569
+labellocation 0.0 4.0
+vertex 4:
+label 5
+location 935.5230272690989,200.94601041266222
+color -16205569
+labellocation 0.0 4.0
+vertex 5:
+label 6
+location 337.57282029130226,210.90114572953473
+color -61696
+labellocation 0.0 4.0
+vertex 6:
+label 7
+location 709.3859877772413,452.1504186900655
+color -61696
+labellocation 0.0 4.0
+vertex 7:
+label 8
+location 603.5726592138157,343.2113605258041
+color -61696
+labellocation 0.0 4.0
+vertex 8:
+label 9
+location 459.806985768501,351.31886301660694
+color -61696
+labellocation 0.0 4.0
+vertex 9:
+label 10
+location 937.6162315475106,450.1030194957269
+color -61696
+labellocation 0.0 4.0
+begin edges
+0 -> 3
+label    03
+color 19
+weight 1
+0 -> 4
+label    04
+color 19
+weight 1
+0 -> 9
+label    09
+color 19
+weight 1
+1 -> 3
+label    13
+color 19
+weight 1
+1 -> 4
+label    14
+color 19
+weight 1
+1 -> 5
+label    15
+color 19
+weight 1
+2 -> 5
+label    25
+color 19
+weight 1
+2 -> 6
+label    26
+color 19
+weight 1
+2 -> 8
+label    28
+color 19
+weight 1
+3 -> 7
+label    37
+color 19
+weight 1
+4 -> 9
+label    49
+color 19
+weight 1
+5 -> 8
+label    58
+color 19
+weight 1
+6 -> 7
+label    67
+color 19
+weight 1
+6 -> 9
+label    69
+color 19
+weight 1
+7 -> 8
+label    78
+color 19
+weight 1

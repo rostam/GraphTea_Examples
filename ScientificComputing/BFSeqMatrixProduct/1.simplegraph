@@ -1,0 +1,11 @@
+graph:
+undirected
+label G0
+font Arial 1 24
+begin vertices:
+vertex 0:
+label 0
+location 456.0,116.0
+color 0
+labellocation 0.0 4.0
+begin edges
