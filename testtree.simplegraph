@@ -1,0 +1,248 @@
+graph:
+undirected
+label TreeG0
+font begin 1 0
+begin vertices:
+vertex 0:
+label 0
+size 15.0 15.0
+location 718.0,593.0
+color 0
+labellocation 0.0 4.0
+vertex 1:
+label 1
+size 15.0 15.0
+location 712.0,383.0
+color 4
+labellocation 0.0 4.0
+vertex 2:
+label 2
+size 15.0 15.0
+location 842.0,234.0
+color 4
+labellocation 0.0 4.0
+vertex 3:
+label 3
+size 15.0 15.0
+location 617.0,223.0
+color 4
+labellocation 0.0 4.0
+vertex 4:
+label 4
+size 15.0 15.0
+location 603.0,134.0
+color 4
+labellocation 0.0 4.0
+vertex 5:
+label 6
+size 15.0 15.0
+location 480.0,197.0
+color 4
+labellocation 0.0 4.0
+vertex 6:
+label 7
+size 15.0 15.0
+location 844.0,135.0
+color 4
+labellocation 0.0 4.0
+vertex 7:
+label 8
+size 15.0 15.0
+location 987.0,228.0
+color 4
+labellocation 0.0 4.0
+vertex 8:
+label 9
+size 15.0 15.0
+location 1042.0,277.0
+color 4
+labellocation 0.0 4.0
+vertex 9:
+label 10
+size 15.0 15.0
+location 950.0,304.0
+color 4
+labellocation 0.0 4.0
+vertex 10:
+label 11
+size 15.0 15.0
+location 892.0,94.0
+color 4
+labellocation 0.0 4.0
+vertex 11:
+label 12
+size 15.0 15.0
+location 805.0,84.0
+color 4
+labellocation 0.0 4.0
+vertex 12:
+label 13
+size 15.0 15.0
+location 781.0,137.0
+color 4
+labellocation 0.0 4.0
+vertex 13:
+label 14
+size 15.0 15.0
+location 725.0,139.0
+color 4
+labellocation 0.0 4.0
+vertex 14:
+label 15
+size 15.0 15.0
+location 733.0,199.0
+color 4
+labellocation 0.0 4.0
+vertex 15:
+label 19
+size 15.0 15.0
+location 775.0,207.0
+color 4
+labellocation 0.0 4.0
+vertex 16:
+label 20
+size 15.0 15.0
+location 944.0,133.0
+color 4
+labellocation 0.0 4.0
+vertex 17:
+label 21
+size 15.0 15.0
+location 687.0,83.0
+color 4
+labellocation 0.0 4.0
+vertex 18:
+label 22
+size 15.0 15.0
+location 557.0,1.0
+color 4
+labellocation 0.0 4.0
+vertex 19:
+label 23
+size 15.0 15.0
+location 445.0,81.0
+color 4
+labellocation 0.0 4.0
+vertex 20:
+label 24
+size 15.0 15.0
+location 628.0,63.0
+color 4
+labellocation 0.0 4.0
+vertex 21:
+label 25
+size 15.0 15.0
+location 1012.0,147.0
+color 4
+labellocation 0.0 4.0
+vertex 22:
+label 26
+size 15.0 15.0
+location 431.0,244.0
+color 4
+labellocation 0.0 4.0
+vertex 23:
+label 27
+size 15.0 15.0
+location 418.0,139.0
+color 4
+labellocation 0.0 4.0
+vertex 24:
+label 24
+size 15.0 15.0
+location 65.0,46.0
+color 0
+labellocation 0.0 4.0
+begin edges
+0 -> 1
+label   01
+color 8
+weight 1
+1 -> 3
+label   13
+color 8
+weight 1
+1 -> 2
+label   12
+color 8
+weight 1
+2 -> 6
+label   27
+color 8
+weight 1
+2 -> 7
+label   28
+color 8
+weight 1
+3 -> 4
+label   34
+color 8
+weight 1
+3 -> 5
+label   36
+color 8
+weight 1
+19 -> 4
+label   204
+color 8
+weight 1
+18 -> 4
+label   194
+color 8
+weight 1
+20 -> 4
+label   214
+color 8
+weight 1
+5 -> 22
+label   623
+color 8
+weight 1
+5 -> 23
+label   624
+color 8
+weight 1
+12 -> 6
+label   137
+color 8
+weight 1
+6 -> 11
+label   712
+color 8
+weight 1
+6 -> 10
+label   711
+color 8
+weight 1
+7 -> 8
+label   89
+color 8
+weight 1
+21 -> 7
+label   228
+color 8
+weight 1
+8 -> 9
+label   910
+color 8
+weight 1
+10 -> 16
+label   1117
+color 8
+weight 1
+13 -> 12
+label   1413
+color 8
+weight 1
+13 -> 14
+label   1415
+color 8
+weight 1
+17 -> 13
+label   1814
+color 8
+weight 1
+14 -> 15
+label   1516
+color 8
+weight 1
